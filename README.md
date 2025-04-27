@@ -24,7 +24,7 @@
      height = "130"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=byapina&layout=compact&langs_count=16&hide_border=true&locale=pt-br&bg_color=000000&text_color=800000&icon_color=800000&title_color=800000&card_width=290"" alt="Most Used Languages">
   <img 
-   height="180" 
+   height="150" 
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=byapina&show_icons=true&locale=pt-br&hide_border=true&bg_color=000000&text_color=800000&icon_color=800000&title_color=800000" alt="GitHub stats">
 
