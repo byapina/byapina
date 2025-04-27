@@ -22,7 +22,7 @@
  <br> 
  <a> 
   <img 
-   height="180" 
+   height="130" 
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=byapina&show_icons=true&locale=pt-br&hide_border=true&bg_color=000000&text_color=8B0000&icon_color=8B0000&title_color=8B0000" alt="GitHub stats">
  </a>
