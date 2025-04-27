@@ -20,13 +20,15 @@
   
 <div align="center">
  <br> 
+ <a> 
   <img 
    height="180" 
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=byapina&show_icons=true&locale=pt-br&hide_border=true&bg_color=000000&text_color=8B0000&icon_color=8B0000&title_color=8B0000" alt="GitHub stats">
- <a>
-    <img 
-     height = "180"
+ </a>
+  <a>
+  <img 
+     height = "130"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=byapina&layout=compact&langs_count=16&hide_border=true&locale=pt-br&bg_color=000000&text_color=8B0000&icon_color=8B0000&title_color=8B0000&card_width=290"" alt="Most Used Languages">
   </a>
 </div> 
