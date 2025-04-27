@@ -12,7 +12,7 @@
   •*¨*•.¸¸☆*･ﾟ
   <h6>💗 - Games - Cats - Books - Rock</h6>
   •*¨*•.¸¸☆*･ﾟ
-  <h6>Formas de me contatar!/ Ways to contact me!</h6>
+  <h6>Formas de me contatar! / Ways to contact me!</h6>
    <a href="https://www.instagram.com/bya_pina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/beatryzpina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
    
@@ -26,12 +26,13 @@
    src="https://github-readme-stats.vercel.app/api?username=byapina&show_icons=true&locale=pt-br&hide_border=true&bg_color=000000&text_color=8B0000&icon_color=8B0000&title_color=8B0000" alt="GitHub stats">
  <a>
     <img 
-     height = "130"
+     height = "180"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=byapina&layout=compact&langs_count=16&hide_border=true&locale=pt-br&bg_color=000000&text_color=8B0000&icon_color=8B0000&title_color=8B0000&card_width=290"" alt="Most Used Languages">
   </a>
 </div> 
 
 ##
+
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byapina/byapina/output/pacman-contribution-graph-dark.svg">
