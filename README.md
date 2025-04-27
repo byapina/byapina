@@ -8,9 +8,14 @@
   <img align="right" src="https://github.com/user-attachments/assets/80578db5-0249-48dd-ade8-6628387ae60f" alt="toca_disco_retro">
 
   <section align = "center">
+      <h6>📚 - Tech enthusiasts and nerd in my spare time</h6>
+  •*¨*•.¸¸☆*･ﾟ
   <h6>💗 - Games - Cats - Books - Rock</h6>
-  <h6></h6>
-  
+  •*¨*•.¸¸☆*･ﾟ
+  <h6>Formas de me contatar!/ Ways to contact me!</h6>
+   <a href="https://www.instagram.com/bya_pina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/beatryzpina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+
 
 
 
