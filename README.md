@@ -20,21 +20,23 @@
   
 <div align="center">
  <br> 
- <a> 
+   <img 
+     height = "130"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=byapina&layout=compact&langs_count=16&hide_border=true&locale=pt-br&bg_color=000000&text_color=800000&icon_color=800000&title_color=800000&card_width=290"" alt="Most Used Languages">
   <img 
    height="180" 
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=byapina&show_icons=true&locale=pt-br&hide_border=true&bg_color=000000&text_color=800000&icon_color=800000&title_color=800000" alt="GitHub stats">
- </a>
-  <a>
-  <img 
-     height = "110"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=byapina&layout=compact&langs_count=16&hide_border=true&locale=pt-br&bg_color=000000&text_color=800000&icon_color=800000&title_color=800000&card_width=290"" alt="Most Used Languages">
-  </a>
+
+ <h5>Linguagens e ferramentas que estudo! / Languages and tools I study!</h5>
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="GIT" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+ <img  align="center" alt="C" height="30" width="30" src="https://github.com/user-attachments/assets/c0edbd88-af15-40e8-920c-8b3b3f5efba8"> 
+ 
 </div> 
 
-##
 
+##
 
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byapina/byapina/output/pacman-contribution-graph-dark.svg">
