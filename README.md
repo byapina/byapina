@@ -7,28 +7,34 @@
   <img align="right" src="https://github.com/user-attachments/assets/80578db5-0249-48dd-ade8-6628387ae60f" alt="toca_disco_retro">
 
   <div align="center">
-   <h5>  
+
   <h6> Formas de me contatar! / Ways to contact me! </h6>
-    
    <a href="https://www.instagram.com/bya_pina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/beatryzpina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-
+  
   </div> 
 
 
-  
+
 <div align="center">
  <br> 
    <img 
      height = "130"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=byapina&layout=compact&langs_count=16&hide_border=true&locale=pt-br&bg_color=000000&text_color=800000&icon_color=800000&title_color=800000&card_width=290"" alt="Most Used Languages">
 
-
- 
-</div> 
+  </div> 
 
 
 
+<h1> </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byapina/byapina/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byapina/byapina/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/byapina/byapina/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<h1> </h1>
 
 
